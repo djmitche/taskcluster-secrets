@@ -1,1 +1,1 @@
-web: NODE_ENV=production babel-node bin/main.js server
+web: babel-node bin/main.js server
